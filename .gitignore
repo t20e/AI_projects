@@ -152,3 +152,5 @@ cython_debug/
 #.idea/
 
 .DS_STORE
+
+images_of_places_NN
