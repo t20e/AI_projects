@@ -154,3 +154,5 @@ cython_debug/
 .DS_STORE
 
 images_of_places_NN
+datasets
+mis
